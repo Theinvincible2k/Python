@@ -1,2 +1,3 @@
 # Python
-simple Python programs
+
+Simple Python coding snippets will be available in this repository.
